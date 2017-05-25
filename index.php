@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="#">Home</a></li>
-                    <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+                    <li class="dropdown">
                         <ul class="dropdown-menu">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">SGU</a></li>
